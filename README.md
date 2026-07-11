@@ -10,7 +10,7 @@ python main.py --path <caminho_do_projeto> --language <linguagem_programacao> --
 
 - **--path**: caminho do projeto que serão gerados os testes (obrigatório). Para node, pode passar apenas um arquivo para gerar os testes.
 - **--language**: linguagem de programação em que serão gerados os testes (obrigatório).<br>
-    Opções disponíveis: `java` e `node`.
+    Opções disponíveis: `node`.
 - **--no-verbose**: desabilita a exibição de mensagens durante a criação dos testes (opcional).
 
 ## Projetos Node.js
